@@ -1,0 +1,24 @@
+{
+    "studenti": [
+        {
+            "id": 1,
+            "nome": "Mario Rossi",
+            "crediti": 42
+        },
+        {
+            "id": 2,
+            "nome": "Laura Bianchi",
+            "crediti": 36
+        },
+        {
+            "id": 3,
+            "nome": "andrea",
+            "crediti": 32
+        },
+        {
+            "id": 4,
+            "nome": "SIUUUUUUUUUUu",
+            "crediti": 21
+        }
+    ]
+}
